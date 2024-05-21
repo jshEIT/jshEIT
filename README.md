@@ -6,13 +6,13 @@
 ## Skills
 
 * * *
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jshEITa&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jshEIT&show_icons=true&theme=radical)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstEIT)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jshEIT)]
 
 * * *
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={jason9865})](https://solved.ac/jason9865)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jason9865)](https://solved.ac/jason9865)
 
 <!--
 **jshEIT/jshEIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
