@@ -1,7 +1,7 @@
 ## 👋 Hi there! I am Seungho! 👋 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshEIT&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
 </div>  
   
 ### 🛠 SKILL 🛠
