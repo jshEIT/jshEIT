@@ -5,12 +5,11 @@
 </div>  
   
 ### 🛠 SKILL 🛠
- 
+To Be Arranged... 
 
 
 * * *
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jason9865)](https://solved.ac/jason9865)
+
 
 <!--
 **jshEIT/jshEIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
