@@ -6,15 +6,13 @@
 </h2>
 
 <div align="center">
-  <b>📋 Languages</b>
-  <br>
+  <h3>📋 Languages</h3>
   <img src="https://img.shields.io/badge/Java-5382a1?style=for-the-badge&logo=java&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=Python&logoColor=white" /></a>&nbsp
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp
 </div>
 <div align="center">
-  <b>📚 Frameworks & Libraries</b> 
-  <br>
+  <h3>📚 Frameworks & Libraries</h3> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>&nbsp
@@ -23,21 +21,18 @@
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>&nbsp
 </div>
 <div align="center">
-  <b>💾 Databases</b> 
-  <br>
+  <h3>💾 Databases</h3> 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"</a>&nbsp
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"</a>&nbsp
 </div>
 <div align="center">
-  <b>☁️ Hosting</b> 
-  <br>
+  <h3>☁️ Hosting</h3> 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>&nbsp
 </div>
 <div align="center">
-  <b> 💻 IDEs/Editors</b> 
-  <br>
+  <h3> 💻 IDEs/Editors</h3> 
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">&nbsp
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp
