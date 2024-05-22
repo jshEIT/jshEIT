@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/vue.Js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>&nbsp
 </div>
 <div align="center">
   <h3>💾 Databases</h3> 
@@ -30,14 +29,6 @@
 <div align="center">
   <h3>☁️ Hosting</h3> 
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>&nbsp
-</div>
-<div align="center">
-  <h3> 💻 IDEs/Editors</h3> 
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">&nbsp
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>&nbsp
 </div>
 
 <br><br><br>
