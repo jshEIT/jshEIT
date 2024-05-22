@@ -1,17 +1,11 @@
 ## 👋 Hi there! I am Seungho! 👋 
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jshEIT&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
-</div>  
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jshEIT&show_icons=true&theme=onedark">
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jshEIT&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8) 
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api?username=jshEIT&show_icons=true&theme=onedark)
   
 ### 🛠 SKILL 🛠
 To Be Arranged... 
-
 
 * * *
 
